@@ -1,7 +1,7 @@
 # Artificial Intelligence – Assessment 1
 
 ## Candidate
-Y.Roshitha (192424400)
+Y.Roshitha (192424400
 
 ## Title
 Analytical Problem Solving using Artificial Intelligence
